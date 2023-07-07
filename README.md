@@ -2,7 +2,7 @@
 
 This is the companion repo for [*.NET MAUI Community Toolkit Succinctly*](https://www.syncfusion.com/succinctly-free-ebooks/dotnet-maui-community-toolkit-succinctly) by Alessandro Del Sole. Published by Syncfusion.
 
-[![cover](https://github.com/SyncfusionSuccinctlyE-Books/.NET-MAUI-Community-Toolkit-Succinctly/cover.png)](https://www.syncfusion.com/succinctly-free-ebooks/dotnet-maui-community-toolkit-succinctly)
+[![cover](https://github.com/SyncfusionSuccinctlyE-Books/.NET-MAUI-Community-Toolkit-Succinctly/blob/main/cover.png)](https://www.syncfusion.com/succinctly-free-ebooks/dotnet-maui-community-toolkit-succinctly)
 
 ## Looking for more _Succinctly_ titles?
 
